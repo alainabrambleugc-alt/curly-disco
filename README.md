@@ -12,7 +12,7 @@ What each teardown gives you:
 - **A timed script** with movement every 5–7 seconds, plus notes on how the product moves and where to frame it so it stays clear of the text overlay and captions.
 - **3 extra hooks and 2 extra CTAs** with every brief.
 - **A shoot plan and a pre-film checklist.**
-- **An itemized quote** from your 2026 rate card (standard tier, low end of each range).
+- **An itemized quote** from your 2026 rate card. It picks the tier (Standard film-only when the brand supplies the lines, Content + Strategy when you write and research) and applies bundle discounts: 10% off 3–4 of an item, 15% off 5, 20% off 6 or more.
 - **Client replies:** a pushback message grounded in strategy, and an offer with packages plus an add-on menu (funnel and awareness versions, different lengths, bigger test batches, a strategy review, a retainer).
 
 Before each teardown it asks you three quick questions: where the brief came from, whether you're running any specials, and whether you already own the product.

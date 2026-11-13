@@ -5,6 +5,6 @@ This repo is a UGC creator's business toolkit. For any script, brief teardown, o
 - **Lead with value, never with her skills.** Frame everything around (1) the buyer's emotional and psychological outcome and (2) how the content helps the brand reach its goal: product recognition, increased sales, a new product launch, a promotion or deal, or a guarantee they're highlighting. Skills appear only as the means to the brand's result.
 - **Sell the top rung of the benefit ladder,** not the feature. (Not "turmeric lowers blood pressure", but "more years with my kids and grandkids".)
 - **Client-facing text:** warm, direct, conversational, no em dashes, no jargon, no grovelling.
-- **Prices** come only from `.claude/skills/brief-teardown/references/rate-card.md` (lower rates).
+- **Prices** come only from `.claude/skills/brief-teardown/references/rate-card.md`: Standard (film-only) when the brand supplies the lines, Content + Strategy when she writes and researches; bundle discounts of 10% (3–4), 15% (5) and 20% (6+) on any item.
 - **Craft and psychology reference:** `.claude/skills/brief-teardown/references/ugc-playbook.md`.
 - For a brief, use the `/brief-teardown` skill.

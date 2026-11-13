@@ -33,7 +33,7 @@ The teardown engine reads this file every time and tailors angles, hooks and scr
 
 ## Rates
 
-See `rate-card.md` (filled in from the 2026 rate cards; quote at the lower rates).
+See `rate-card.md`: two tiers (Standard film-only, Content + Strategy) and bundle discounts of 10% / 15% / 20%.
 
 ## Positioning
 

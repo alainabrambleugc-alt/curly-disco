@@ -1,41 +1,70 @@
 # Rate card (2026)
 
-Source: the creator's 2026 rate cards. **Quote at the lower rates:** standard tier, low end of every range. All USD. Quotes valid 14 days.
+Source: the creator's 2026 rate cards, with her pricing rules. All USD. Quotes valid 14 days.
 
-## Base video rates (standard tier — use these by default)
+## Pick the tier from the brief
 
-Organic use on the brand's own channels, 1 revision per video.
-
-| Length | Rate | Typical use |
+| Tier | When | What she does |
 |---|---|---|
-| Short, 15–30 sec | **$100** | Hook-driven talking head, great for testing |
-| Medium, 31–60 sec | **$150** | Story plus proof |
-| Long, 61–90 sec | **$250** | Deep dive, demo, comparison or review |
+| **Standard (film-only)** | The brand supplies the lines/script and wants no creative input and no research | Films and says their lines, low edit |
+| **Content + Strategy** | She writes the script or brief, does the research, builds the concepts | Brief analysis, research, storytelling framework, script, filming |
 
-A video of exactly 30s is Short; exactly 60s is Medium.
+If the brief gives exact lines to say → Standard. If it gives key messages, a vibe or "creator's choice" and expects her to write → Content + Strategy. If unclear, quote the more likely tier, note the assumption, and ask in "Before you quote".
 
-**What the base rate covers:** spokesperson / talking-head video, low edit, captions, 1–3 text overlays (hook, CTA and one more), basic organic rights, one revision.
-**Not covered — quoted on top:** B-roll (no set price: write `B-roll: [quote]` and flag it), whitelisting, posting on the creator's channels.
+## Base video rates (per video)
+
+| Length | Standard (film-only) | Content + Strategy |
+|---|---|---|
+| Short, 15–30 sec | **$100** | **$275** |
+| Medium, 31–60 sec | **$150** | **$400** |
+| Long, 61–90 sec | **$250** | **$575** |
+
+A video of exactly 30s is Short; exactly 60s is Medium. Standard uses the low end of the original ranges.
+
+**Standard includes:** spokesperson / talking-head video, low edit, captions, 1–3 text overlays (hook, CTA and one more), basic organic rights, 1 revision.
+**Content + Strategy includes:** everything in Standard, plus brief analysis, research, the storytelling framework and script, 2 revisions and 1 platform reformat.
+**Not included in either; quoted on top:** B-roll (no set price: write `B-roll: [quote]` and flag it), whitelisting, posting on the creator's channels.
+
+## Bundle discounts (apply to every package)
+
+Whenever the brand buys several of the same item, the bundle always saves them money:
+
+| Quantity of the same item | Discount |
+|---|---|
+| 1–2 | none |
+| 3–4 | **10% off** |
+| 5 | **15% off** |
+| 6 or more | **20% off** (the maximum) |
+
+- Works for videos (count all videos in the order, mixed lengths included), hook variations, CTA variations, platform reformats, photo sets, and any other item bought in quantity.
+- Discount each item group separately: e.g. 3 videos get 10% off the videos, and 5 hooks get 15% off the hooks.
+- Paid usage is priced from each video's full (pre-discount) base rate, and is not bundle-discounted.
+- Show the saving in dollars in quotes and offers ("you save $30").
+- These replace the older fixed bundle prices ($390 / $600 / $720 / $1,125).
 
 ## Paid ad usage (per video, added to its base rate)
 
 | Period | Fee |
 |---|---|
-| 30 days | +50% of base rate, minimum $75 |
+| 30 days | +50% of the video's base rate, minimum $75 |
 | 90 days | $200 |
 | 6 months | $500 |
 | Perpetual buyout | $1,000 (unlimited use, all platforms, no expiry) |
 
 If the brief says paid but gives no duration, quote 30 days and ask the duration in "Before you quote".
 
-## Add-ons
+## Add-ons (per item; bundle discounts apply at 3+)
 
-| Add-on | Price |
+| Add-on | Price each |
 |---|---|
-| Hook variations | $30 for one · $25 each for 3 · $20 each for 5 |
-| Raw footage | $75 (unedited clips via Google Drive) |
+| Hook variation | $30 |
+| CTA variation | $30 (priced like hooks) |
 | Platform reformat | $25 per extra platform (TikTok, Reels, YouTube Shorts) |
+| Raw footage | $75 per video (unedited clips via Google Drive) |
 | Rush delivery | $200 (within 48 hours of brief approval) |
+| Strategy review of their analytics / past ads | `[quote]` (price not set yet) |
+
+Examples: 3 hooks = $90 − 10% = **$81** · 5 hooks = $150 − 15% = **$127.50** · 6 hooks = $180 − 20% = **$144**.
 
 ## Photos and reviews
 
@@ -49,14 +78,13 @@ If the brief says paid but gives no duration, quote 30 days and ask the duration
 
 ## Retainers (for the offer's closing line)
 
-- Starter, 6 videos a month: from $800
+- Starter (Standard tier), 6 videos a month: from $800
+- Strategic (Content + Strategy tier), 6 videos a month: from $1,400
 - Custom volume or posting partnerships: quoted on request
 
-## Only if the user asks for them
+## Specials
 
-- **Content + Strategy tier** (brief analysis, storytelling framework, 2 revisions, 1 reformat): Short $275 · Medium $400 · Long $575. Bundles: 3 from $720, 5 from $1,125. Strategic retainer, 6 videos/month, from $1,400.
-- **Bundles:** 3 videos from $390, 5 videos from $600. At the low-end per-video rate these cost more than buying singles, so don't quote them by default.
-- **Black Friday special** (limited to 5 packages): one 15–45s video $100 with captions, light editing, one revision, no B-roll. Paid usage 1 month $30, 3 months $80, 6 months $130, 1 year $215. Mention it only if the user confirms the promo is still open.
+**Black Friday special** (limited to 5 packages): one 15–45s video $100 with captions, light editing, one revision, no B-roll. Paid usage 1 month $30, 3 months $80, 6 months $130, 1 year $215. Mention it only if the creator says the promo is still open.
 
 ## Whitelisting and the creator's channels
 
@@ -65,16 +93,22 @@ Spark codes, ads run through the creator's handle, and posting on the creator's 
 ## Terms (state briefly in offers when relevant)
 
 - 50% deposit on approval secures the spot; final 50% before clean, unwatermarked files are released.
-- Watermarked preview first; the included revision happens there.
-- Product provided by the brand.
-- The creator reviews or tests a product only after a paid agreement is signed, and every quote is agreed in writing before filming. This matters for the claims check: she won't have long-term experience with the product, so "I've used this for weeks" lines need a spokesperson read.
+- Watermarked preview first; included revisions happen there.
+- Product provided by the brand (unless she already owns it: say so, it saves them a sample).
+- She reviews or tests a product only after a paid agreement is signed, and every quote is agreed in writing before filming. So she has days of experience with the product, not weeks (see the claims check).
 
 ## How to build a quote
 
-1. Price each deliverable from its length.
-2. Add paid usage per video if it's for paid ads.
-3. Add each add-on the brief asks for: hook variations, raw footage, extra platforms, rush (deadline under 48h from approval).
-4. Flag anything quoted separately: B-roll, whitelisting/Spark, exclusivity.
-5. Show an itemized table and a total, with separately quoted items listed below the total.
+1. Pick the tier.
+2. Price each video from its length and tier.
+3. Apply the bundle discount to the videos (3+).
+4. Add paid usage per video from the full base rate.
+5. Add each add-on, grouping quantities and applying bundle discounts (3+).
+6. Flag anything quoted separately: B-roll, whitelisting/Spark, exclusivity, strategy review.
+7. Show an itemized table: list price, discount, subtotal per group, the total, and the total saved.
 
-Worked example: one short video for brand channels plus 30 days of paid ads = $100 + $75 (minimum) = **$175**.
+Worked example (Standard): 3 short videos + 30 days paid usage on each.
+Videos 3 × $100 = $300 − 10% = $270 · Usage 3 × $75 (minimum) = $225 · **Total $495, you save $30.**
+
+Worked example (Content + Strategy): 5 short videos.
+5 × $275 = $1,375 − 15% = **$1,168.75, you save $206.25.**

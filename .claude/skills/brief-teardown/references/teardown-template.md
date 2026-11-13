@@ -15,6 +15,7 @@ Use this structure and order. Omit a section only where noted. Client-facing tex
 |---|---|
 | Brand / product | |
 | Brand's goal for this spend | {sales / clicks / views / recognition / launch / promo / guarantee} |
+| Tier | {Standard (film-only) / Content + Strategy} · {why} |
 | Offer / code | |
 | Deliverables | {count × length, ratio} |
 | Platform & use | {organic / paid · whitelisting / Spark} |
@@ -143,12 +144,12 @@ Movement or B-roll at least every 5–7s. Mark B-roll inserts **(optional B-roll
 - [ ] Disclosure: {what and where}
 - [ ] Profile hard rules respected
 
-## 11. Quote (brief as written)
+## 11. Quote (brief as written · {tier})
 
-| Item | Qty | Rate | Subtotal |
-|---|---|---|---|
-| | | | |
-| **Total** | | | **$** |
+| Item | Qty | Rate | List | Bundle discount | Subtotal |
+|---|---|---|---|---|---|
+| | | | | | |
+| **Total** | | | | **You save $** | **$** |
 
 **Quoted separately:** {B-roll / whitelisting / Spark / exclusivity, or "Nothing"}
 **Applied:** {special / platform coupon / no sample needed, or "None"}
@@ -163,5 +164,5 @@ Movement or B-roll at least every 5–7s. Mark B-roll inserts **(optional B-roll
 
 ### Offer
 
-> {Option 1: brief as written, $total. Option 2: testing package, N concepts at $/video, paid usage add-on. Add-on menu (2–4 items picked for this brief). Specials / no-sample note if relevant. Close with turning winners into a monthly content plan. One line on 50% deposit and 14-day validity. Conversational, about what they get.}
+> {Option 1: brief as written, $total. Option 2: testing package, N concepts at Content + Strategy rates with the bundle discount and saving shown, paid usage add-on. Add-on menu of 2–4 items picked for this brief, each priced, with bundle discounts at 3+. Specials / no-sample note if relevant. Close with turning winners into a monthly content plan. One line on 50% deposit and 14-day validity. Conversational, about what they get.}
 ```
