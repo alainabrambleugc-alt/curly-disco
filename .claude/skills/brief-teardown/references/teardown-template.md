@@ -1,19 +1,20 @@
 # Teardown output template
 
-Use this structure and order. Omit a section only where noted. Client-facing text (sections 4 and 11) uses no em dashes.
+Use this structure and order. Omit a section only where noted. Client-facing text (sections 4 and 12) uses no em dashes.
 
 ---
 
 ```markdown
 # Brief Teardown — {Brand}: {Product / Campaign}
 
-> {One-line verdict: what this brief really needs, the biggest risk, and the strongest opportunity.}
+> {One-line verdict: the emotional angle to lead with, the brand's goal, the biggest risk.}
 
 ## 1. At a glance
 
 | | |
 |---|---|
 | Brand / product | |
+| Brand's goal for this spend | {sales / clicks / views / recognition / launch / promo / guarantee} |
 | Offer / code | |
 | Deliverables | {count × length, ratio} |
 | Platform & use | {organic / paid · whitelisting / Spark} |
@@ -22,16 +23,25 @@ Use this structure and order. Omit a section only where noted. Client-facing tex
 | Raw vs edited | |
 | Deadline | |
 
-## 2. Customer read
+## 2. Persona ID
 
-| | |
+| Question | Answer |
 |---|---|
-| Who the customer is | |
-| Problem they want solved | |
+| Who exactly are we speaking to? | {a named sketch, e.g. "Denise, 58, retired teacher, three grandkids"} |
+| Age group & life stage | |
+| Pain point, in their words | "{…}" |
+| What they've already tried | |
 | What's stopping them from buying | {top 2–3 objections} |
-| Awareness stage | {stage} → {what the first 3 seconds must do because of it} |
+| What they secretly want / fear | |
+| Awareness stage | {stage} → {what the first 2 seconds must do} |
 
-**Core message:** {[customer] who [problem] get [outcome] because [product reason].}
+**Benefit ladder**
+
+| Feature | What it does | What that means for their life (lead with this) |
+|---|---|---|
+| | | |
+
+**Core emotional message:** {one sentence a viewer would feel, not just understand.}
 
 ## 3. Must / Nice-to-have / Don't
 
@@ -40,11 +50,11 @@ Use this structure and order. Omit a section only where noted. Client-facing tex
 **Don't** (quoted) — "{exact wording}"
 
 ### Claims check
-| Line in brief | Problem | Fix |
-|---|---|---|
-| "{line}" | {experience you haven't had / medical / before-after / guarantee} | {true rewrite or spokesperson read} |
+| Line in brief | Issue | Actor portrayal path | Spokesperson path |
+|---|---|---|---|
+| "{line}" | {experience not had / medical / before-after / guarantee} | {delivered as written with "Actor portrayal" on screen, if approved in writing} | {true rewrite} |
 
-{Or: "No claim issues found."} · **Disclosure:** {what and where}
+{Or: "No claim issues found."} · **Disclosure:** {#ad / paid partnership / actor portrayal, and where}
 **Conflicts with your profile:** {or "None."}
 
 ## 4. Before you quote — questions for the brand
@@ -52,80 +62,106 @@ Use this structure and order. Omit a section only where noted. Client-facing tex
 Ready to paste:
 1. …
 
-## 5. Ad library read
-{Omit this whole section if no Ad Library material or tool was available; instead write one line: "Share screenshots of their active Meta ads (and 2–3 competitors') for an ad library read."}
+## 5. Research
 
-- **Hooks they keep repeating:** …
-- **Formats they keep repeating:** …
+{If nothing was connected or shared, write one line: "No research tools or screenshots available. Share their Meta Ad Library ads (and 2–3 competitors') or TikTok top ads for a sharper read." and skip the rest.}
+
+- **Brand's repeated hooks / formats:** …
 - **Longest-running (likely winners):** …
+- **Going viral in the niche / similar products:** …
 - **Angle nobody in the category is testing:** …
+
+Informed by: {sources}
 
 ## 6. Concepts
 
 **Baseline (what the brand asked for):** {one line}
 
-| # | Persuasion angle | Format | Opening hook | First 2 seconds (visual) | Why it could outperform the ask |
-|---|---|---|---|---|---|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
+### Concept {n}: {name}
+- **Persuasion angle · Format:** {angle} · {format}
+- **Emotional payoff it sells:** {top rung of the ladder}
+- **Psychology trigger:** {e.g. curiosity gap, loss aversion, identity}
+- **Hook:** Visual: {…} · Spoken: "{…}" · On-screen: "{…}"
+- **Motion in the first 2 seconds:** {walks into frame / product pushed toward lens / sunglasses off…}
+- **Re-hook (~{n}s):** "{…}"
+- **Retention grabs:** {open loop, pattern interrupts, payoff timing}
+- **CTA:** "{…}"
+- **Shots:** Wide: {…} · Standard: {…} · Macro: {…}
+- **Why it could outperform the ask:** {one line tied to the brand's goal}
 
-{Informed by: … — only if research was used.}
+{Repeat for 4 concepts.}
 
 ## 7. Script — {deliverable} ({length})
 
-| Time | Beat | Spoken | On-screen text | Shot |
-|---|---|---|---|---|
-| 0–3s | Hook | | | |
-| | Problem | | | |
-| | Product | | | |
-| | Proof / demo | | | |
-| | CTA | | | |
+| Time | Beat | Spoken | On-screen text | Shot / angle | Motion & framing |
+|---|---|---|---|---|---|
+| 0–2s | Hook (motion) | | | | |
+| 2–5s | Hook payoff / problem | | | | |
+| ~5–10s | Product | | | | |
+| ~{n}s | Re-hook | | | | |
+| | Proof / demo | | | | {e.g. "Say this while stretching the band in frame; band in middle third, headroom clear for text, bottom clear for captions"} |
+| | CTA | | | | |
+
+Movement or B-roll at least every 5–7s. Mark B-roll inserts **(optional B-roll upgrade)**.
 
 **Word count:** {n} ≈ {n ÷ 2.5}s
+**Requested variations:** {or "None requested"}
 
-**Requested variations:** {alt hooks / CTAs / video 2, or "None requested"}
-**Hook bank:** 3–5 extra hooks across different hook types.
+## 8. Extra hooks and CTAs
 
-## 8. Shoot plan
+| # | Visual hook (with motion) | Spoken hook | On-screen text | Trigger |
+|---|---|---|---|---|
+| 1 | | | | |
+| 2 | | | | |
+| 3 | | | | |
 
-**A-roll:** …
-**B-roll:**
-- [ ] …
+**CTA 1:** "{…}" — {why it gets the click}
+**CTA 2:** "{…}" — {why it gets the click}
+
+## 9. Shoot plan
+
+| Setup | Angle | What to capture | Motion |
+|---|---|---|---|
+| A | Wide | | |
+| B | Standard | | |
+| C | Close-up macro | | |
+
+**Safe-zone framing:** {headroom for text overlay, lower third clear for captions and platform UI, demo in the middle third}
 **Props · Location · Wardrobe · Light/audio:** …
 **Deliver as:** {specs, raw clips, captions, naming}
 
-## 9. Pre-film checklist
+## 10. Pre-film checklist
 
 - [ ] Every Must is in the script
-- [ ] No Don't words, competitor mentions, or flagged claims
-- [ ] No line claims an experience I haven't had
-- [ ] Hook works sound-off and sound-on; product in hand early
+- [ ] No Don't words, competitor mentions, or unapproved claims
+- [ ] Experience claims: actor-portrayal disclosure approved in writing, or spokesperson read
+- [ ] Motion in the first 2 seconds; movement every 5–7 seconds
+- [ ] Hook works sound-off and sound-on; re-hook placed
+- [ ] Demo motion framed clear of text and captions
+- [ ] All three angles captured (wide, standard, macro)
 - [ ] Length within {target}
 - [ ] Disclosure: {what and where}
 - [ ] Profile hard rules respected
 
-## 10. Quote (brief as written)
+## 11. Quote (brief as written)
 
 | Item | Qty | Rate | Subtotal |
 |---|---|---|---|
-| {e.g. Short video, 15–30s} | | | |
-| {Paid usage, 30 days} | | | |
-| {Add-ons} | | | |
+| | | | |
 | **Total** | | | **$** |
 
 **Quoted separately:** {B-roll / whitelisting / Spark / exclusivity, or "Nothing"}
+**Applied:** {special / platform coupon / no sample needed, or "None"}
 **Assumptions:** {e.g. usage duration not specified, quoted 30 days}
 
-## 11. Client replies
+## 12. Client replies
 
 ### Pushback
-{Trigger: unethical claims / monotone formats / scope mismatch — or "No pushback needed: {why}."}
+{Trigger and the brand goal it protects, or "No pushback needed: {why}."}
 
-> {Reply, under six sentences, warm and direct, no em dashes.}
+> {Reply: under six sentences, warm, direct, strategy-led, no em dashes.}
 
-### Two-option offer
+### Offer
 
-> {Option 1: brief as written at the section 10 total. Option 2: N angle-testing videos at the per-video rate, paid usage as a separate add-on. Close with turning winners into a monthly content plan. One short line on the 50% deposit and 14-day validity. Conversational, about what they get.}
+> {Option 1: brief as written, $total. Option 2: testing package, N concepts at $/video, paid usage add-on. Add-on menu (2–4 items picked for this brief). Specials / no-sample note if relevant. Close with turning winners into a monthly content plan. One line on 50% deposit and 14-day validity. Conversational, about what they get.}
 ```
