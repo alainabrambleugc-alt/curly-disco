@@ -29,13 +29,13 @@ To use it in the Claude app (claude.ai), zip the `.claude/skills/brief-teardown/
 
 ## Make it yours
 
-Fill in **`.claude/skills/brief-teardown/references/creator-profile.md`** with your niche, voice, setup, the formats you love and avoid, and your hard rules. Prices live in `rate-card.md`. Every teardown reads it, and its rules override the generic advice.
+Fill in **`.claude/skills/brief-teardown/references/creator-profile.md`** with your niche, voice, setup, the formats you love and avoid, and your hard rules. Every teardown reads it, and its rules override the generic advice. Prices live in `rate-card.md`.
 
 ## What's inside
 
 ```
 .claude/skills/brief-teardown/
-├── SKILL.md                         # the engine: inputs, 10-step process, rules
+├── SKILL.md                         # the engine: inputs, 12-step process, rules
 └── references/
     ├── creator-profile.md           # YOUR rules (fill this in)
     ├── rate-card.md                 # your 2026 rates + quote rules
