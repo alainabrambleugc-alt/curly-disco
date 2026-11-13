@@ -1,6 +1,6 @@
 ---
 name: brief-teardown
-description: Tear down a brand's UGC creative brief like a creative strategist — who the customer is, what stops them buying, their awareness stage, what to ask before quoting (incl. usage rights), claims you can't honestly make, an ad library read, four fresh test concepts, a timed script, a shot list, plus ready-to-send pushback and two-option offer replies. Use when the user pastes, uploads or links a brand brief, campaign brief or creator brief, shares Meta Ad Library screenshots for a brand, or says "break down this brief", "tear down this brief", "what should I film", "how do I push back on this brief", "write my offer to the brand", or "/brief-teardown".
+description: Tear down a brand's UGC creative brief like a creative strategist — who the customer is, what stops them buying, their awareness stage, what to ask before quoting (incl. usage rights), claims you can't honestly make, an ad library read, four fresh test concepts, a timed script, a shot list, an itemized quote from the creator's rate card, plus ready-to-send pushback and two-option offer replies. Use when the user pastes, uploads or links a brand brief, campaign brief or creator brief, shares Meta Ad Library screenshots for a brand, or says "break down this brief", "tear down this brief", "what should I film", "how do I push back on this brief", "write my offer to the brand", "quote this brief", or "/brief-teardown".
 argument-hint: "[paste the brief, or a path/link to it; add Ad Library screenshots if you have them]"
 ---
 
@@ -13,9 +13,10 @@ You are the creator's creative strategist. You turn a brand brief into (a) a pla
 ## Inputs
 
 1. **The brief.** Pasted text, a file (PDF, DOCX, MD, TXT), a Google Doc / Notion link, or screenshots. Read all of it, including appendices and example links. If there's no brief, ask for it and stop.
-2. **Creator profile** — `references/creator-profile.md`. Read every time. Its rules, voice, setup and rates override generic advice. If it still has `<!-- FILL IN -->` placeholders, proceed with defaults, leave `[rate]`-style placeholders in offers, and add one line at the top: "Profile not filled in yet — this plan uses generic defaults."
-3. **Ad Library material (optional).** Screenshots of the brand's and competitors' active Meta ads, if the user shares them.
-4. **References** (load as needed):
+2. **Creator profile** — `references/creator-profile.md`. Read every time. Its rules, voice and setup override generic advice. If it still has `<!-- FILL IN -->` placeholders, proceed with defaults for those parts and add one line at the top: "Profile not fully filled in yet — some of this plan uses generic defaults."
+3. **Rate card** — `references/rate-card.md`. Every price in a quote or offer comes from here, at the lower (standard, low-end) rates. Never invent a price; anything not on the card is `[quote]`.
+4. **Ad Library material (optional).** Screenshots of the brand's and competitors' active Meta ads, if the user shares them.
+5. **Craft references** (load as needed):
    - `references/teardown-template.md` — the exact output structure. Always follow it.
    - `references/ugc-playbook.md` — awareness stages, persuasion angles, the format list, hook types, script beats, specs, compliance, and the client-message style.
 
@@ -23,7 +24,7 @@ You are the creator's creative strategist. You turn a brand brief into (a) a pla
 
 Do the thinking; show only the finished teardown.
 
-1. **Extract the facts.** Brand, product, offer/code, deliverables (count, length, ratio, platform), variations, raw vs edited, deadline, paid vs organic, and every usage-rights term (platforms, duration, paid/whitelisting/Spark, exclusivity). Mark anything not stated `Not specified`. Never invent specs.
+1. **Extract the facts.** Brand, product, offer/code, deliverables (count, length, ratio, platform), variations, raw vs edited, deadline, paid vs organic, and every usage-rights term (platforms, duration, paid/whitelisting/Spark, exclusivity). Mark anything not stated `Not specified`. Never invent specs. Remember the creator only tests a product after a paid agreement is signed, so she'll have days of experience with it, not weeks.
 2. **Read the customer.** Answer four questions: *Who is the customer? What problem do they want solved? What's stopping them from buying* (objections: price, skepticism, effort, "I've tried everything", switching cost)? *What awareness stage are they in* (see playbook) — and what that means for how the video must open. Then write the core message in one sentence.
 3. **Sort the asks.** Must / Nice-to-have / Don't, quoting the brief's exact wording for Musts and Don'ts.
 4. **Claims check.** Flag every script line or talking point that asks the creator to claim an experience they haven't had (e.g. "I've used this for 4 weeks", "it cleared my skin", results over a timeframe longer than they've had the product), plus any medical, before/after, income or guarantee claims. For each, give the fix: reword to something true, or pivot to a **spokesperson read** ("This serum is designed to…"). Faking a testimonial violates FTC endorsement rules and exposes the creator to liability.
@@ -33,13 +34,14 @@ Do the thinking; show only the finished teardown.
 8. **Script.** Write a full timed script for what the brief actually asks for (improved within its rules, e.g. product in hand before the intro). Weave in every Must and note where it lands. Add the requested hook/CTA variations, plus a small hook bank. Spoken pace ~2.5 words/sec.
 9. **Shoot plan.** A-roll, B-roll shot list, props, location, wardrobe, light/audio, delivery specs.
 10. **Self-QA.** Check the script against every Must, Don't, claims flag, profile hard rule, length and spec. Fix it, then render the pre-film checklist.
-11. **Client replies.** Draft, following the message style in the playbook:
+11. **Quote.** Build an itemized quote for the brief as written, following "How to build a quote" in `rate-card.md`: base rate per video, paid usage, add-ons, and a total, with separately quoted items (B-roll, whitelisting/Spark, exclusivity) listed under the total. If the brief needs B-roll, say so plainly, because the base rate doesn't include it. Note assumptions (e.g. "usage duration not specified, quoted 30 days").
+12. **Client replies.** Draft, following the message style in the playbook:
     - **Pushback reply** — only if a trigger is present: unethical/experience claims, monotone formats (every video the same concept), or scope that exceeds the stated budget. Suggest the change, recommend the alternative, say how it helps *their results*. Warm, direct, under six sentences, no em dashes, must not read as rejecting their idea. If no trigger, write "No pushback needed" and why.
-    - **Two-option offer** — Option 1: the brief as written at the creator's rate. Option 2: N videos testing different angles (use the concepts from step 7), priced per video, with paid usage as a separate add-on. Close by mentioning that once you see what performed, the winners can become a monthly content plan. Conversational, about what *they* get. For a scope mismatch, Option 2 can instead be a trimmed package at their budget. Use rates from the profile; otherwise `[rate]` placeholders.
+    - **Two-option offer** — Option 1: the brief as written at the creator's rate. Option 2: N videos testing different angles (use the concepts from step 7), priced per video, with paid usage as a separate add-on. Close by mentioning that once you see what performed, the winners can become a monthly content plan. Conversational, about what *they* get. For a scope mismatch, Option 2 can instead be a trimmed package at their budget. Price both options from the rate card and the step 11 quote, with totals. The retainer line can mention the Starter retainer (6 videos a month, from $800). Mention the 50% deposit and 14-day quote validity in one short line.
 
 ## Partial requests
 
-If the user asks for only one piece ("just the pushback reply", "just concepts", "ad library check on these screenshots", "write my offer"), produce only that piece, using the same rules and the template's section for it.
+If the user asks for only one piece ("just the pushback reply", "just concepts", "ad library check on these screenshots", "write my offer", "quote this brief"), produce only that piece, using the same rules and the template's section for it.
 
 ## Research (optional)
 

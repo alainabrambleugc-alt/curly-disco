@@ -1,6 +1,6 @@
 # Teardown output template
 
-Use this structure and order. Omit a section only where noted. Client-facing text (sections 4 and 10) uses no em dashes.
+Use this structure and order. Omit a section only where noted. Client-facing text (sections 4 and 11) uses no em dashes.
 
 ---
 
@@ -106,7 +106,19 @@ Ready to paste:
 - [ ] Disclosure: {what and where}
 - [ ] Profile hard rules respected
 
-## 10. Client replies
+## 10. Quote (brief as written)
+
+| Item | Qty | Rate | Subtotal |
+|---|---|---|---|
+| {e.g. Short video, 15–30s} | | | |
+| {Paid usage, 30 days} | | | |
+| {Add-ons} | | | |
+| **Total** | | | **$** |
+
+**Quoted separately:** {B-roll / whitelisting / Spark / exclusivity, or "Nothing"}
+**Assumptions:** {e.g. usage duration not specified, quoted 30 days}
+
+## 11. Client replies
 
 ### Pushback
 {Trigger: unethical claims / monotone formats / scope mismatch — or "No pushback needed: {why}."}
@@ -115,5 +127,5 @@ Ready to paste:
 
 ### Two-option offer
 
-> {Option 1: brief as written at [rate]. Option 2: N angle-testing videos at [rate]/video, paid usage as a separate add-on. Close with turning winners into a monthly content plan. Conversational, about what they get.}
+> {Option 1: brief as written at the section 10 total. Option 2: N angle-testing videos at the per-video rate, paid usage as a separate add-on. Close with turning winners into a monthly content plan. One short line on the 50% deposit and 14-day validity. Conversational, about what they get.}
 ```
