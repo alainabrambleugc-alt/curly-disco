@@ -1,6 +1,18 @@
 # Brand Brief Teardown Engine
 
-A Claude skill that turns a brand's UGC creative brief into a content plan you can film from: the core message, the must-says and don'ts quoted from the brief, questions to send the brand, ranked creative angles, 10 hooks, a timed script, a shot list and a pre-film checklist. All of it is tailored to your own on-camera style.
+A Claude skill that tears down a brand's UGC creative brief the way a creative strategist would:
+
+- **Customer read:** who the customer is, the problem, what stops them buying, and their awareness stage
+- **Must / Don't**, plus a **claims check** that flags any line asking you to claim an experience you haven't had and offers a spokesperson read instead
+- **Questions to ask before you quote**, including usage rights
+- **Ad library read** (from screenshots you share): repeated hooks and formats, likely winners, and the angle nobody is testing
+- **Four new concepts**, each with a different persuasion angle and format, plus a hook, the first two seconds, and why it could beat the brand's ask
+- **A timed script, shot list and pre-film checklist**
+- **Client replies:** a pushback message and a two-option offer that opens the door to a retainer
+
+All of it is tailored to your own style and rates.
+
+You can also ask for a single piece, such as "just the pushback reply", "ad library check on these screenshots" or "write my offer".
 
 ## Use it
 
@@ -16,7 +28,7 @@ To use it in the Claude app (claude.ai), zip the `.claude/skills/brief-teardown/
 
 ## Make it yours
 
-Fill in **`.claude/skills/brief-teardown/references/creator-profile.md`** with your niche, voice, setup, the formats you love and avoid, and your hard rules. Every teardown reads it, and its rules override the generic advice.
+Fill in **`.claude/skills/brief-teardown/references/creator-profile.md`** with your niche, voice, setup, the formats you love and avoid, your hard rules and your rates. Every teardown reads it, and its rules override the generic advice.
 
 ## What's inside
 
@@ -32,4 +44,4 @@ examples/
 teardowns/                           # finished teardowns land here
 ```
 
-If the DarkUGC connector is available, the engine can also pull proven hooks and the brand's current UGC patterns to inform the angles. It adapts what it finds and never copies it word for word.
+If the Adspo (Meta Ad Library) or DarkUGC connectors are available, the engine can pull the brand's live ads and proven hooks in the niche itself. It adapts what it finds and never copies it word for word.

@@ -1,13 +1,13 @@
 # Teardown output template
 
-Use this structure exactly. Keep headings and order. Tables where shown. Omit a sub-part only if it truly doesn't apply (e.g. no variations requested), and never omit sections 1–3 or 8.
+Use this structure and order. Omit a section only where noted. Client-facing text (sections 4 and 10) uses no em dashes.
 
 ---
 
 ```markdown
 # Brief Teardown — {Brand}: {Product / Campaign}
 
-> {One-line verdict: what this brief is really asking for, and the angle you'd lead with.}
+> {One-line verdict: what this brief really needs, the biggest risk, and the strongest opportunity.}
 
 ## 1. At a glance
 
@@ -15,54 +15,65 @@ Use this structure exactly. Keep headings and order. Tables where shown. Omit a 
 |---|---|
 | Brand / product | |
 | Offer / code | |
-| Deliverables | {count × length, aspect ratio} |
-| Platform & use | {TikTok / IG / Meta ads … · organic or paid (whitelisting/Spark)} |
-| Variations | {e.g. 3 hooks, 2 CTAs, or "none requested"} |
+| Deliverables | {count × length, ratio} |
+| Platform & use | {organic / paid · whitelisting / Spark} |
+| Usage rights | {platforms, duration, exclusivity, or "Not specified"} |
+| Variations | |
 | Raw vs edited | |
 | Deadline | |
-| Audience | |
 
-## 2. The one thing
+## 2. Customer read
 
-**Core message:** {[audience] who [problem] get [outcome] because [product reason].}
+| | |
+|---|---|
+| Who the customer is | |
+| Problem they want solved | |
+| What's stopping them from buying | {top 2–3 objections} |
+| Awareness stage | {stage} → {what the first 3 seconds must do because of it} |
 
-**What the brand is really optimising for:** {e.g. cold-traffic conversions on Meta — so proof and CTA matter more than vibe.}
+**Core message:** {[customer] who [problem] get [outcome] because [product reason].}
 
 ## 3. Must / Nice-to-have / Don't
 
-**Must** (quoted from brief)
-- "{exact wording}" → lands in: {beat / timestamp}
+**Must** (quoted) — "{exact wording}" → lands at {beat/timestamp}
+**Nice-to-have** — …
+**Don't** (quoted) — "{exact wording}"
 
-**Nice-to-have**
-- …
+### Claims check
+| Line in brief | Problem | Fix |
+|---|---|---|
+| "{line}" | {experience you haven't had / medical / before-after / guarantee} | {true rewrite or spokesperson read} |
 
-**Don't** (quoted from brief)
-- "{exact wording}"
-
-**Compliance:** {disclosure needed, claim risks, anything that could get the ad rejected.}
-
+{Or: "No claim issues found."} · **Disclosure:** {what and where}
 **Conflicts with your profile:** {or "None."}
 
-## 4. Questions for the brand
+## 4. Before you quote — questions for the brand
 
 Ready to paste:
 1. …
 
-## 5. Angles (ranked)
+## 5. Ad library read
+{Omit this whole section if no Ad Library material or tool was available; instead write one line: "Share screenshots of their active Meta ads (and 2–3 competitors') for an ad library read."}
 
-| # | Angle | Format | Why it fits this brief | Risk |
-|---|---|---|---|---|
-| 1 | | | | |
+- **Hooks they keep repeating:** …
+- **Formats they keep repeating:** …
+- **Longest-running (likely winners):** …
+- **Angle nobody in the category is testing:** …
 
-## 6. Hooks
+## 6. Concepts
 
-| # | Hook (spoken) | On-screen text | Opening visual | Type | Angle |
+**Baseline (what the brand asked for):** {one line}
+
+| # | Persuasion angle | Format | Opening hook | First 2 seconds (visual) | Why it could outperform the ask |
 |---|---|---|---|---|---|
 | 1 | | | | | |
+| 2 | | | | | |
+| 3 | | | | | |
+| 4 | | | | | |
 
-{Informed by: … — only if research tools were used.}
+{Informed by: … — only if research was used.}
 
-## 7. Script — Angle 1: {name} ({length})
+## 7. Script — {deliverable} ({length})
 
 | Time | Beat | Spoken | On-screen text | Shot |
 |---|---|---|---|---|
@@ -72,27 +83,37 @@ Ready to paste:
 | | Proof / demo | | | |
 | | CTA | | | |
 
-**Word count:** {n} spoken words ≈ {n ÷ 2.5}s
+**Word count:** {n} ≈ {n ÷ 2.5}s
 
-### Variations
-{Alternate hooks / CTAs / second video, if requested.}
+**Requested variations:** {alt hooks / CTAs / video 2, or "None requested"}
+**Hook bank:** 3–5 extra hooks across different hook types.
 
 ## 8. Shoot plan
 
 **A-roll:** …
 **B-roll:**
 - [ ] …
-
-**Props:** … · **Location:** … · **Wardrobe:** … · **Light / audio:** …
-**Deliver as:** {file specs, raw clips, captions on/off, naming}
+**Props · Location · Wardrobe · Light/audio:** …
+**Deliver as:** {specs, raw clips, captions, naming}
 
 ## 9. Pre-film checklist
 
-- [ ] Every Must is in the script (see section 3)
-- [ ] No Don't words, claims or competitor mentions
-- [ ] Hook works sound-off and sound-on
+- [ ] Every Must is in the script
+- [ ] No Don't words, competitor mentions, or flagged claims
+- [ ] No line claims an experience I haven't had
+- [ ] Hook works sound-off and sound-on; product in hand early
 - [ ] Length within {target}
 - [ ] Disclosure: {what and where}
 - [ ] Profile hard rules respected
-- [ ] {brief-specific checks}
+
+## 10. Client replies
+
+### Pushback
+{Trigger: unethical claims / monotone formats / scope mismatch — or "No pushback needed: {why}."}
+
+> {Reply, under six sentences, warm and direct, no em dashes.}
+
+### Two-option offer
+
+> {Option 1: brief as written at [rate]. Option 2: N angle-testing videos at [rate]/video, paid usage as a separate add-on. Close with turning winners into a monthly content plan. Conversational, about what they get.}
 ```

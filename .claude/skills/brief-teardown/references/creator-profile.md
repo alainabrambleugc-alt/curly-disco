@@ -31,6 +31,18 @@ The teardown engine reads this file every time and tailors angles, hooks and scr
 
 - <!-- FILL IN: e.g. no before/after on my skin, no showing my kids' faces, no weight-loss claims -->
 
+## Rates (used in two-option offers; left as [rate] placeholders until filled)
+
+- **Base rate per video (organic, edited):** <!-- FILL IN -->
+- **Per-video rate for angle-testing packages:** <!-- FILL IN -->
+- **Paid usage add-on:** <!-- FILL IN: e.g. 30 days / 90 days / 6 months -->
+- **Whitelisting / Spark code fee:** <!-- FILL IN -->
+- **Extra hook or CTA variation:** <!-- FILL IN -->
+- **Raw footage:** <!-- FILL IN -->
+- **Exclusivity:** <!-- FILL IN -->
+- **Monthly retainer starting point:** <!-- FILL IN -->
+- **Rush fee:** <!-- FILL IN -->
+
 ## Defaults when a brief is silent
 
 - **Default length:** <!-- FILL IN: e.g. 30s -->
