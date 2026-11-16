@@ -58,11 +58,11 @@ Use this structure and order. Omit a section only where noted. Client-facing tex
 **Don't** (quoted) — "{exact wording}"
 
 ### Claims check
-| Line in brief | Issue | Fix |
-|---|---|---|
-| "{line}" | {not lived / timeframe / health claim / before-after / false history} | {spokesperson read in the brand's approved words · true rewrite · [NEED: …]} |
+| Line in brief | Issue | Actor portrayal path | Integrity path |
+|---|---|---|---|
+| "{line}" | {not lived / timeframe / health claim / before-after / false history} | {as written, with "Actor portrayal" on screen, if approved in writing · risk flag if health/treatment} | {spokesperson read in the brand's approved words · true rewrite · [NEED: …]} |
 
-{Or: "No claim issues."} · **Disclosure:** {#ad / paid partnership, and where}
+{Or: "No claim issues."} · **Disclosure:** {#ad / paid partnership / actor portrayal, and where}
 
 ## 5. Before you quote — questions for the brand
 
@@ -155,7 +155,7 @@ Informed by: {sources}
 
 ### Pre-film checklist
 - [ ] Every Must is in the script; no Don't words or competitor mentions
-- [ ] No unlived claim, timeframe or false history; every [NEED] resolved or cut
+- [ ] Unlived claims: actor-portrayal disclosure approved in writing and on screen, or rewritten; every [NEED] resolved or cut
 - [ ] Triple hook; frame 1 has face + product + text; product cue by 2s
 - [ ] Every cut carries new information; no static frame over 6s
 - [ ] Demo motion framed clear of text and captions

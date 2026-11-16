@@ -6,7 +6,7 @@ What each teardown gives you:
 
 - **Brief flags** against your hard nos and real-life constraints (rain windows, wifi, turnaround).
 - **Persona:** your four persona questions, the brain stack (40s always on) and driving need, awareness stage, and a **benefit ladder** from feature to feeling.
-- **Must / Don't**, plus a **claims check**: nothing you haven't lived; fixes are spokesperson reads in the brand's wording, true rewrites, or [NEED] gaps.
+- **Must / Don't**, plus a **claims check** with two paths: the brand's own claims delivered with an on-screen "Actor portrayal" disclosure they approve in writing, or a spokesperson read / true rewrite / [NEED] gap.
 - **Questions to ask before you quote**, including usage rights.
 - **Research:** the brand's and competitors' Meta ads (via Adspo or Motion), viral TikTok and Instagram videos in the niche (via Blueprint), UGC that sells (via DarkUGC), and any screenshots you share.
 - **Four concepts**, each with a different door (Feeling, Fix, Joke, Close), angle and format. Each has a triple hook from your seven hooks, a frame-1 plan, shoulder tap, re-hook, objection kill, CTA, a wide / standard / macro shot list, and a two-ledger read.
