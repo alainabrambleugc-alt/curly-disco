@@ -78,7 +78,7 @@ Every demo beat says **what the product is doing while the line is spoken** and 
 
 ## 8. Claims
 
-Her integrity rule governs (storytelling guide §6, creator profile §3 and §6): never claim a result, symptom or story she hasn't lived; missing proof is `[NEED: the proof point]`. Health and supplement claims beyond the brand's exact approved wording, treatment or insomnia claims, prescription comparisons, specific-results promises and before/after framing are flagged. She only uses or applies a product after a paid project with a signed contract, so she has days with it, not weeks: rewrite timeframe claims as a spokesperson read or mark them [NEED].
+Her integrity rule governs (storytelling guide §6, creator profile §3 and §6): never claim a result, symptom or story she hasn't lived; missing proof is `[NEED: the proof point]`. **Exception (ruling 13):** with the brand's written approval and a legible on-screen "Actor portrayal" disclosure, she delivers the brand's own claims and first-person lines as written. The brand supplies and substantiates the claims; health/treatment/before-after claims are still flagged as ad-rejection risks; the alcohol-story and son-with-supplements lines stay off-limits. Health and supplement claims beyond the brand's exact approved wording, treatment or insomnia claims, prescription comparisons, specific-results promises and before/after framing are flagged. She only uses or applies a product after a paid project with a signed contract, so she has days with it, not weeks: timeframe claims go through the actor-portrayal path or become a spokesperson read or [NEED].
 
 ## 9. Pushing back on briefs
 
@@ -86,7 +86,7 @@ Push back with commercial reasoning: it moves her from interchangeable vendor to
 
 | Trigger | Move |
 |---|---|
-| Claims she can't stand behind | Spokesperson read or the brand's exact approved wording; it protects their ad account too |
+| Claims she hasn't lived | Offer the on-screen "Actor portrayal" disclosure, or a spokesperson read in their approved wording; either protects their ad account |
 | Monotone formats | Different doors and formats so they have contrasting creative mechanics to test |
 | Scope over budget | Two clear options: the full brief at her rate, or a trimmed package at their figure |
 | Unscripted / freestyle demand | She'll keep the natural feel and send a storyboard for approval first (workflow note, not a dealbreaker) |

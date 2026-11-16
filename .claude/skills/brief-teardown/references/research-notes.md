@@ -37,7 +37,7 @@ Completion favors short; total watch time favors longer-if-held. Buffer's 1.1M T
 - Invented retention thresholds (no platform publishes one)
 
 ## Legal floor
-Never generate a fake testimonial or fake personal experience; only true scarcity. (FTC — this matches Alaina's standing integrity rule.)
+Never generate a fake testimonial or fake personal experience; only true scarcity. (FTC — this matches Alaina's standing integrity rule.) A brand-approved dramatization with a legible on-screen "Actor portrayal" disclosure is not presented as a genuine testimonial; see storytelling guide ruling 13.
 
 ---
 

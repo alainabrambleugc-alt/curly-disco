@@ -36,8 +36,8 @@ Whenever the brand buys several of the same item, the bundle always saves them m
 | 5 | **15% off** |
 | 6 or more | **20% off** (the maximum) |
 
-- Works for videos (count all videos in the order, mixed lengths included), hook variations, CTA variations, platform reformats, photo sets, and any other item bought in quantity.
-- Discount each item group separately: e.g. 3 videos get 10% off the videos, and 5 hooks get 15% off the hooks.
+- Works for videos (count all videos in the order, mixed lengths included), platform reformats, photo sets, and any other item bought in quantity. **Hook and CTA variations have their own pack pricing instead** (see Add-ons).
+- Discount each item group separately: e.g. 3 videos get 10% off the videos, and 5 reformats get 15% off the reformats.
 - Paid usage is priced from each video's full (pre-discount) base rate, and is not bundle-discounted.
 - Show the saving in dollars in quotes and offers ("you save $30").
 - These replace the older fixed bundle prices ($390 / $600 / $720 / $1,125).
@@ -46,25 +46,24 @@ Whenever the brand buys several of the same item, the bundle always saves them m
 
 | Period | Fee |
 |---|---|
-| 30 days | +50% of the video's base rate, minimum $75 |
-| 90 days | $200 |
+| 90 days (the minimum) | $200 |
 | 6 months | $500 |
 | Perpetual buyout | $1,000 (unlimited use, all platforms, no expiry) |
 
-If the brief says paid but gives no duration, quote 30 days and ask the duration in "Before you quote".
+**3-month minimum** (ruled 2026-11-16): never quote paid usage shorter than 90 days, except inside a dated special that says otherwise. If the brief says paid but gives no duration, quote 90 days and ask the duration in "Before you quote". If a brand asks for 30 days, offer the 90-day minimum.
 
-## Add-ons (per item; bundle discounts apply at 3+)
+## Add-ons (bundle discounts apply at 3+, except hooks and CTAs)
 
 | Add-on | Price each |
 |---|---|
-| Hook variation | $30 |
-| CTA variation | $30 (priced like hooks) |
+| Hook variation | $30 for one · $25 each for 3 ($75) · $20 each for 5 or more ($100 for 5) |
+| CTA variation | Priced like hooks: $30 · 3 for $75 · $20 each for 5+ |
 | Platform reformat | $25 per extra platform (TikTok, Reels, YouTube Shorts) |
 | Raw footage | $75 per video (unedited clips via Google Drive) |
 | Rush delivery | $200 (within 48 hours of brief approval) |
 | Strategy review of their analytics / past ads | `[quote]` (price not set yet) |
 
-Examples: 3 hooks = $90 − 10% = **$81** · 5 hooks = $150 − 15% = **$127.50** · 6 hooks = $180 − 20% = **$144**.
+Hook packs (ruled 2026-11-16): 1 hook **$30** · 3 hooks **$75** · 5 hooks **$100** · 6 hooks **$120**. For 2 or 4 hooks, price each at the pack rate below it ($30 each for 2; $25 each for 4 = $100, so suggest the 5-pack at the same price).
 
 ## Photos and reviews
 
@@ -94,13 +93,15 @@ Examples: 3 hooks = $90 − 10% = **$81** · 5 hooks = $150 − 15% = **$127.50*
 - Rates below her floor are never presented as take-it-or-leave-it.
 - Quotes are drafts for her approval; never quote a rate that isn't on this card.
 
-## Open questions (awaiting her ruling)
+## Rulings (2026-11-16)
 
-Creator profile §7 differs from this card on two points: paid usage has a 3-month minimum ($200 / 90 days), and a direct inbound video typically starts at a $200 base. Hook bundles: old card $25 each for 3 / $20 each for 5 vs the bundle rule above. Until she rules, quote per this card and state the alternative in the quote's Assumptions line.
+- Direct inbound briefs use the same Standard rates as platform briefs ($100 short).
+- Paid usage has a 3-month minimum.
+- Hooks and CTAs use the old pack pricing ($75 for 3), not the bundle rule.
 
 ## Specials
 
-**Black Friday special** (limited to 5 packages): one 15–45s video $100 with captions, light editing, one revision, no B-roll. Paid usage 1 month $30, 3 months $80, 6 months $130, 1 year $215. Mention it only if the creator says the promo is still open.
+**Black Friday special** (limited to 5 packages): one 15–45s video $100 with captions, light editing, one revision, no B-roll. Paid usage 1 month $30, 3 months $80, 6 months $130, 1 year $215 (the special's own usage terms; the 1-month option exists only inside this special). Mention it only if the creator says the promo is still open.
 
 ## Whitelisting and the creator's channels
 
@@ -119,12 +120,12 @@ Spark codes, ads run through the creator's handle, and posting on the creator's 
 2. Price each video from its length and tier.
 3. Apply the bundle discount to the videos (3+).
 4. Add paid usage per video from the full base rate.
-5. Add each add-on, grouping quantities and applying bundle discounts (3+).
+5. Add each add-on, grouping quantities: hooks and CTAs at pack prices, everything else with bundle discounts (3+).
 6. Flag anything quoted separately: B-roll, whitelisting/Spark, exclusivity, strategy review.
 7. Show an itemized table: list price, discount, subtotal per group, the total, and the total saved.
 
-Worked example (Standard): 3 short videos + 30 days paid usage on each.
-Videos 3 × $100 = $300 − 10% = $270 · Usage 3 × $75 (minimum) = $225 · **Total $495, you save $30.**
+Worked example (Standard): 3 short videos + 90 days paid usage on each + 3 hooks.
+Videos 3 × $100 = $300 − 10% = $270 · Usage 3 × $200 = $600 · Hooks 3-pack $75 (vs $90 single) · **Total $945, you save $45.**
 
 Worked example (Content + Strategy): 5 short videos.
 5 × $275 = $1,375 − 15% = **$1,168.75, you save $206.25.**

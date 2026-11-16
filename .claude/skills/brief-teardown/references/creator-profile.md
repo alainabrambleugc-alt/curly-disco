@@ -22,7 +22,7 @@ Paste-ready rules for the brief teardown engine. These rules override generic UG
 Uses: "Mahalo!" (her sign-off in messages). Plain, warm, direct sentences. Concrete specifics — real numbers, real timeframes, real moments. Systems language for ADHD content (loops, stuck points, "a system outside your head"). Abundance and accountability language in personal-brand content: 1% better every day, get back up, keep going, you are loved exactly as you are.
 Never:
 
-* Never claims a result, symptom, or story she has not lived — no invented proof, ever. If a teardown needs a proof point that doesn't exist, the slot is [NEED], not a placeholder claim.
+* Never claims a result, symptom, or story she has not lived — no invented proof, ever. If a teardown needs a proof point that doesn't exist, the slot is [NEED], not a placeholder claim. Exception: the actor-portrayal ruling (storytelling guide, ruling 13).
 * Never states she is an alcoholic, and never implies a personal or family alcohol (or similar) story for a product.
 * Never tells a client they are her first inbound brand.
 * No apology language in follow-ups, and no invented urgency ("only 2 spots left" unless it's her real, dated special).
@@ -53,16 +53,16 @@ Flag in a teardown:
 6. Hard nos (auto-flag any brief containing these)
 
 1. Gifted-only or "exposure" work, and trial/test videos without a paid project secured and a signed contract first. Paid projects only.
-2. Products or claims she has not lived and cannot stand behind (integrity rule) — including any script that assigns her a false personal history.
+2. Products or claims she has not lived and cannot stand behind (integrity rule) — including any script that assigns her a false personal history. Exception: brand-supplied claims delivered under a written-approved "Actor portrayal" disclosure (storytelling guide, ruling 13).
 3. Paid usage bundled in free, usage in perpetuity, or whitelisting treated as paid media rights. Whitelisting and paid usage are different lines, always priced separately.
 4. The $30 bulk rate applied to anything that isn't Canvas/tech bulk work (typically 10+ videos).
 5. Rates below her floor (see §7) presented as take-it-or-leave-it.
 
 7. Rates and terms (for pricing checks in a teardown)
 
-* Standard UGC: starts at $100 for a 15-second video, rising with length. A direct inbound video typically starts at a $200 base.
+* Standard UGC: starts at $100 for a 15-second video, rising with length. Direct inbound briefs use the same Standard rates as platform briefs ($100 short) — ruled 2026-11-16.
 * Canvas/tech bulk only (typically more than 10 super-short videos): $30/video — includes whitelisting, does not include paid usage on the brand's website.
-* Paid usage: priced per 30 days, 3-month minimum, longer packages cheaper per month. Usage is always a separate line from production.
+* Paid usage: 3-month minimum ($200 per video for 90 days), longer packages cheaper per month — confirmed 2026-11-16. Usage is always a separate line from production.
 * Any discount is framed as a limited seasonal special, never a beginner price.
 * Standard turnaround: delivery 3–5 days after the product is in hand, with the storyboard sent for approval before filming.
 * AI never quotes a rate she did not supply for that specific negotiation.
