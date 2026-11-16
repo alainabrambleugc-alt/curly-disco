@@ -82,6 +82,22 @@ Examples: 3 hooks = $90 − 10% = **$81** · 5 hooks = $150 − 15% = **$127.50*
 - Strategic (Content + Strategy tier), 6 videos a month: from $1,400
 - Custom volume or posting partnerships: quoted on request
 
+## Canvas / tech bulk rate (from creator profile §7)
+
+- **$30 per video**, only for Canvas/tech app bulk work (typically 10+ super-short videos). Includes whitelisting; does not include paid usage on the brand's website.
+- Never apply it to anything else (profile hard no #4). Bundle discounts don't stack on it.
+
+## Rules from the creator profile (§6–7)
+
+- Paid usage and whitelisting are always separate lines from production and from each other. Never bundle usage in free.
+- Any discount beyond bundle savings is framed as a limited, dated seasonal special, never a beginner price.
+- Rates below her floor are never presented as take-it-or-leave-it.
+- Quotes are drafts for her approval; never quote a rate that isn't on this card.
+
+## Open questions (awaiting her ruling)
+
+Creator profile §7 differs from this card on two points: paid usage has a 3-month minimum ($200 / 90 days), and a direct inbound video typically starts at a $200 base. Hook bundles: old card $25 each for 3 / $20 each for 5 vs the bundle rule above. Until she rules, quote per this card and state the alternative in the quote's Assumptions line.
+
 ## Specials
 
 **Black Friday special** (limited to 5 packages): one 15–45s video $100 with captions, light editing, one revision, no B-roll. Paid usage 1 month $30, 3 months $80, 6 months $130, 1 year $215. Mention it only if the creator says the promo is still open.
